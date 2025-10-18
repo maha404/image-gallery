@@ -9,7 +9,7 @@ interface ImageProps {
   dataArray?: any[];
 }
 
-export default ({ id, dataLength, next, hasMore, loader, dataArray }: ImageProps) => {
+export default ({ dataLength, next, hasMore, loader, dataArray }: ImageProps) => {
 return (
      <InfiniteScroll
         dataLength={dataLength}
