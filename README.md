@@ -1,7 +1,6 @@
 # Bildgalleri med Infinity scroll + Lazy loading
 
-### :wave:
-Välkommen till ett repo som innehåller ett väldigt simplet bildgalleri
+### :wave: Välkommen till ett repo som innehåller ett väldigt simplet bildgalleri
  
 ### :open_book: Projektöversikt 
 Ett enkelt bildgalleri med infinity scroll och lazy loading av bilder. 
