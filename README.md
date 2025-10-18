@@ -19,9 +19,9 @@ Ett enkelt bildgalleri med infinity scroll och lazy loading av bilder.
     
     `https://github.com/maha404/image-gallery`
 
-2. Kör kommandot npm install
+2. Kör kommandot: `npm install`
 
-3. Kör sedan igång den lokala servern med kommandot npm start
+3. Kör sedan igång den lokala servern med kommandot: `npm start`
 
 
 
